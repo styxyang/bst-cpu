@@ -1,5 +1,12 @@
-/bst/
-/sc_computer/
+/bst/db/
+/bst/incremental_db/
+/bst/simulation/
+/bst/*.*
+/sc_computer/db/
+/sc_computer/incremental_db/
+/sc_computer/simulation/
+/sc_computer/*.*
+
 !*.v
 !*.vwf
 !*.mif
